@@ -1,12 +1,5 @@
 <template>
   <div>
-<!--    <div class="page-header clear-filter" filter-color="blue">-->
-<!--      <parallax-->
-<!--          class="page-header-image"-->
-<!--          style="background-color: #252733; max-height: 100vh"-->
-<!--      >-->
-<!--      </parallax>-->
-<!--    </div>-->
     <div class="section" style="">
       <div class="container text-center">
         <div class="row justify-content-md-end">
@@ -24,7 +17,7 @@
         </div>
         <div class="row justify-content-md-end">
           <div class="col-12 section-text">
-            <n-button type="primary" simple style="margin: 50px 0;" v-on:click="to_home()">
+            <n-button type="primary" simple style="margin: 50px 0;" v-on:click="go_back()">
               <span class="title" style="color: #FFFFFF; font-size: 20px">
                 Take me back!
               </span>
@@ -47,8 +40,8 @@ export default {
     [Button.name]: Button,
   },
   methods: {
-    to_home() {
-      router.push('/')
+    go_back() {
+      router.go(-1)
     }
   }
 }
