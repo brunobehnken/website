@@ -19,7 +19,7 @@
         </div>
         <div class="row justify-content-md-center">
           <div class="col-12">
-            <img rel="tooltip" title="Photo by cetteup on Unsplash" src="img/under_construction.jpg" alt="" style="max-width: 50%;">
+            <img src="img/under_construction.jpg" alt="" style="max-width: 50%;">
           </div>
         </div>
         <div class="row justify-content-md-end">
