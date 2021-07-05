@@ -1,0 +1,5 @@
+# Credits
+
+1. File `/public/img/setup.jpg`: Photo by Bruno Behnken. That's actually my own setup :)
+1. File `/public/img/python-code.jpg`: Photo by <a href="https://unsplash.com/@cdr6934?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chris Ried</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.
+1. File `/public/img/git.jpg`: Photo by <a href="https://unsplash.com/@yancymin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Yancy Min</a> on <a href="https://unsplash.com/s/photos/code?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.
