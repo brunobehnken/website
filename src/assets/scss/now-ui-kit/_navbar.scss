@@ -68,6 +68,14 @@
                 font-size: 16px;
             }
 
+            .ion-icon {
+                font-size: 18px;
+                position: relative;
+                top: 3px;
+                text-align: center;
+                width: 21px;
+            }
+
             &.profile-photo{
                 .profile-photo-small{
                     width: 27px;
@@ -176,7 +184,8 @@
 }
 
 .bg-primary{
-    background-color: $primary-color !important;
+    //background-color: $primary-color !important;
+    background-color: #1e2048 !important;
 }
 
 .bg-info{
