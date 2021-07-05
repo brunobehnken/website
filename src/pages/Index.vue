@@ -6,8 +6,6 @@
         style="background-color: #252733"
       >
       </parallax>
-<!--      <div class="container">-->
-<!--        <div class="section">-->
           <div class="container text-left">
             <div class="row justify-content-md-start">
               <div class="col-md-6 col-lg-6 section-text">
@@ -21,7 +19,6 @@
               </div>
             </div>
           </div>
-<!--        </div>-->
 <!--        <div class="content-center brand">-->
 <!--          &lt;!&ndash; todo place this img on the left side of the same line as the text &ndash;&gt;-->
 <!--          <h1 class="h1-seo">Bruno Behnken</h1>-->
