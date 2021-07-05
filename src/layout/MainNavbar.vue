@@ -53,7 +53,7 @@
           rel="tooltip"
           title="Send me an e-mail"
           data-placement="bottom"
-          href="mailto:brunobehnken@gmail.com"
+          href="mailto:bruno@behnken.dev"
           target="_blank"
         >
           <ion-icon class="ion-icon" name="mail-outline"></ion-icon>
