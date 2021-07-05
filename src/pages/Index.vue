@@ -13,51 +13,13 @@
               </div>
               <div class="col-md-6 col-lg-6 section-text">
                 <div class="content-center brand">
-                  <!-- todo place this img on the left side of the same line as the text -->
                   <h1 class="h1-seo">Bruno Behnken</h1>
                   <h3>Software Engineer</h3>
               </div>
             </div>
           </div>
-<!--        <div class="content-center brand">-->
-<!--          &lt;!&ndash; todo place this img on the left side of the same line as the text &ndash;&gt;-->
-<!--          <h1 class="h1-seo">Bruno Behnken</h1>-->
-<!--          <h3>Software Engineer</h3>-->
-<!--        </div>-->
-<!--        </div>-->
-<!--        <h6 class="category category-absolute">-->
-<!--          Designed by-->
-<!--          <a href="http://invisionapp.com/" target="_blank">-->
-<!--            <img src="img/invision-white-slim.png" class="invision-logo" /> </a-->
-<!--          >. Coded by-->
-<!--          <a href="https://www.creative-tim.com" target="_blank">-->
-<!--            <img-->
-<!--              src="img/creative-tim-white-slim2.png"-->
-<!--              class="creative-tim-logo"-->
-<!--            /> </a-->
-<!--          >.-->
-<!--        </h6>-->
       </div>
     </div>
-<!--    <div class="main">-->
-<!--      <div class="section section-images">-->
-<!--        <div class="container">-->
-<!--          <div class="row">-->
-<!--            <div class="col-md-12">-->
-<!--              <div class="hero-images-container">-->
-<!--                <img src="img/hero-image-1.png" alt="" />-->
-<!--              </div>-->
-<!--              <div class="hero-images-container-1">-->
-<!--                <img src="img/hero-image-2.png" alt="" />-->
-<!--              </div>-->
-<!--              <div class="hero-images-container-2">-->
-<!--                <img src="img/hero-image-3.png" alt="" />-->
-<!--              </div>-->
-<!--            </div>-->
-<!--          </div>-->
-<!--        </div>-->
-<!--      </div>-->
-<!--    </div>-->
     <div class="section">
       <div class="container text-left">
         <div class="row justify-content-md-end">
