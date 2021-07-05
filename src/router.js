@@ -1,6 +1,11 @@
 import Vue from 'vue';
 import Router from 'vue-router';
+
+// Pages
 import Index from './pages/Index.vue';
+import Blog from './pages/Blog';
+
+// Common Components
 import MainNavbar from './layout/MainNavbar.vue';
 import MainFooter from './layout/MainFooter.vue';
 
@@ -13,6 +18,15 @@ export default new Router({
       path: '/',
       name: 'index',
       components: { default: Index, header: MainNavbar, footer: MainFooter },
+      props: {
+        header: { colorOnScroll: 0 },
+        footer: { backgroundColor: 'black' }
+      }
+    },
+    {
+      path: '/blog',
+      name: 'blog',
+      components: { default: Blog, header: MainNavbar, footer: MainFooter },
       props: {
         header: { colorOnScroll: 0 },
         footer: { backgroundColor: 'black' }
