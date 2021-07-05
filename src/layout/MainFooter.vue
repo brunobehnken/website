@@ -8,14 +8,14 @@
       <nav>
         <ul>
           <li>
-            <a href="https://www.google.com">
-              Behnken
-            </a>
+            <router-link to="/">
+              Home
+            </router-link>
           </li>
           <li>
-            <a href="https:///www.bing.com">
+            <router-link to="/blog">
               Blog
-            </a>
+            </router-link>
           </li>
           <li>
             <a href="https://github.com/brunobehnken/website">
