@@ -4,6 +4,7 @@ import Router from 'vue-router';
 // Pages
 import Index from './pages/Index.vue';
 import Blog from './pages/Blog';
+import NotFound from './pages/NotFound';
 
 // Common Components
 import MainNavbar from './layout/MainNavbar.vue';
@@ -27,6 +28,17 @@ export default new Router({
       path: '/blog',
       name: 'blog',
       components: { default: Blog, header: MainNavbar, footer: MainFooter },
+      props: {
+        header: { colorOnScroll: 0 },
+        footer: { backgroundColor: 'black' }
+      }
+    },
+
+    // 404 route
+    {
+      path: '*',
+      name: 'notFound',
+      components: { default: NotFound, header: MainNavbar, footer: MainFooter },
       props: {
         header: { colorOnScroll: 0 },
         footer: { backgroundColor: 'black' }
