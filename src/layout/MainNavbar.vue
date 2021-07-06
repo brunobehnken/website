@@ -41,7 +41,7 @@
           rel="tooltip"
           title="Follow me on Twitter"
           data-placement="bottom"
-          href="https://twitter.com/brunobehnken"
+          href="https://twitter.com/behnken_dev"
           target="_blank"
         >
           <ion-icon class="ion-icon" name="logo-twitter"></ion-icon>
