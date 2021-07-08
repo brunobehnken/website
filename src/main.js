@@ -7,6 +7,7 @@ import NowUiKit from './plugins/now-ui-kit';
 Vue.config.productionTip = false;
 
 Vue.use(NowUiKit);
+Vue.config.ignoredElements = [/^ion-/];
 
 new Vue({
   router,
