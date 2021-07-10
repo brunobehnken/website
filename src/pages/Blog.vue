@@ -12,12 +12,12 @@
         </div>
         <div class="row justify-content-md-center">
           <div class="col-12">
-            <img src="img/under_construction.jpg" alt="" style="max-width: 50%;">
+            <img src="img/under_construction.jpg" alt="" style="max-width: 80%;">
           </div>
         </div>
         <div class="row justify-content-md-end">
           <div class="col-12 section-text">
-            <n-button type="primary" simple style="margin: 50px 0;" v-on:click="go_back()">
+            <n-button type="primary" simple style="margin: 50px 0; border-color: #f96332" v-on:click="go_back()">
               <span class="title" style="color: #FFFFFF; font-size: 20px">
                 Take me back!
               </span>
